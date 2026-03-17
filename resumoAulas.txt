@@ -1,0 +1,28 @@
+Observabilidade: coletando metricas de um aplicacao com Prometheus
+
+1-1:
+Nesta aula de apresentação do curso "Observabilidade: coletando métricas de uma aplicação com Prometheus", o instrutor Kleber Costa 
+introduz os principais conceitos que serão abordados. O curso é voltado para desenvolvedores, profissionais de infraestrutura, DevOps e 
+engenharia de confiabilidade de sites.
+
+Os tópicos principais incluem:
+
+Público-alvo: O curso é destinado a pessoas que atuam em desenvolvimento, operações de infraestrutura e DevOps, proporcionando um 
+diferencial para quem deseja ingressar nessas áreas.
+
+Observabilidade e Monitoramento: A observabilidade é definida como a capacidade de acompanhar o estado de execução de um sistema por 
+meio da externalização do seu comportamento. O monitoramento, por sua vez, envolve o acompanhamento de eventos registrados e a execução 
+de ações em resposta a esses eventos. A observabilidade é essencial para um monitoramento eficaz em sistemas complexos.
+
+Métricas: São indicadores de nível de serviço coletados ao longo do tempo, utilizados para medir performance, disponibilidade, saturação 
+e erros. As métricas são fundamentais para entender o comportamento do sistema e devem ser instrumentadas adequadamente.
+
+Cenário do curso e pré-requisitos: O curso utiliza um ambiente que requer a instalação do Docker, Docker Compose, Maven e Java 
+(preferencialmente a versão 1.8). O foco será na instrumentação de uma API e na coleta de métricas com o Prometheus.
+
+Jornada do cliente: A aula descreve como um cliente sintético interage com a aplicação, passando por um proxy e acessando a API, com 
+foco na coleta de métricas durante esse processo.
+
+A aula conclui com a expectativa de que os alunos aprendam a instrumentar a API e a utilizar o Prometheus para coletar métricas.
+
+1-2:
